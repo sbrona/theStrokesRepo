@@ -1,5 +1,5 @@
 .nav-wrapper {
-    background-color: darkred;
+    background-color: palevioletred;
 }
 
 
@@ -11,4 +11,11 @@ div.col.s3 {
     padding-top: 15px;
 }
 
+.parallax-container {
+    height: 60vh;
+  }
 
+.parallax-container .parallax img {
+    bottom: -15%;
+
+  }
