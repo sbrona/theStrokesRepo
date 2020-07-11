@@ -2,7 +2,6 @@
     background-color: palevioletred;
 }
 
-
 div.col.s3 {
     width: 25%;
     margin-left: auto;
@@ -13,12 +12,12 @@ div.col.s3 {
 
 .parallax-container {
     height: 60vh;
-  }
+}
 
 .parallax-container .parallax img {
     bottom: -15%;
 
-  }
+}
 
 #band {
     text-color: white;
