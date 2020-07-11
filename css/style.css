@@ -22,3 +22,7 @@ div.col.s3 {
 #band {
     text-color: white;
 }
+
+ul {
+    position: fixed;
+}
