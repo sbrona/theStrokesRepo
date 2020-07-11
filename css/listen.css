@@ -1,0 +1,12 @@
+.nav-wrapper {
+    background-color: palevioletred;
+}
+
+.parallax-container {
+    height: 60vh;
+  }
+
+.parallax-container .parallax img {
+    bottom: -15%;
+
+  }
